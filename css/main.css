@@ -1,5 +1,6 @@
 body {
 	background-image: url("http://es.best-wallpaper.net/wallpaper/1024x768/1107/Balls-rainbow-colors_1024x768.jpg");
+	background-size: 120%
 }
 div{
 	background-image: url("http://previews.123rf.com/images/OlgaDrozdova/OlgaDrozdova1303/OlgaDrozdova130300057/18729726-Primavera-Seamless-patr-n-floral-intenso-con-coloridas-mariposas-y-las-bolas-de-la-vendimia-y-rizos-Foto-de-archivo.jpg");
@@ -7,6 +8,7 @@ div{
 	height: 150px;
 	margin: 1px;
 	border:2px solid #ffffff;
+	border-radius: 30px;
 }
 .divsegundo{
 	width: 493px;
