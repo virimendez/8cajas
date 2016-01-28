@@ -1,0 +1,23 @@
+div{
+	background-color: #9494b8;
+	width: 150px;
+	height: 150px;
+	margin: 1px;
+	border:2px solid #ffffff;
+}
+.divsegundo{
+	width: 493px;
+	height: 160px;
+	padding:8px;
+}
+    
+.div2{
+	display:inline-block;
+	margin: 2px;
+}
+.div3{
+	display: inline-block;
+}
+
+   
+
