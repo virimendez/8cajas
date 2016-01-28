@@ -1,5 +1,8 @@
+body {
+	background-image: url("http://es.best-wallpaper.net/wallpaper/1024x768/1107/Balls-rainbow-colors_1024x768.jpg");
+}
 div{
-	background-color: #9494b8;
+	background-image: url("http://previews.123rf.com/images/OlgaDrozdova/OlgaDrozdova1303/OlgaDrozdova130300057/18729726-Primavera-Seamless-patr-n-floral-intenso-con-coloridas-mariposas-y-las-bolas-de-la-vendimia-y-rizos-Foto-de-archivo.jpg");
 	width: 150px;
 	height: 150px;
 	margin: 1px;
@@ -9,12 +12,15 @@ div{
 	width: 493px;
 	height: 160px;
 	padding:8px;
+
 }
     
 .div2{
 	display:inline-block;
 	margin: 2px;
-}
+	background-image: url("http://www.miathletic.com/media/galeria/6/2/4/5/6/n_athletic_club_de_bilbao_flores_y_plantas-5826542.jpeg");
+	background-size: 100%;
+}   
 .div3{
 	display: inline-block;
 }
